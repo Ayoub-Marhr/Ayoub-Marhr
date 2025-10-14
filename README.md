@@ -19,12 +19,12 @@ Currently, I’m diving deep into **AI & Machine Learning** with **Python**, aim
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,flutter" alt="Frontend Stack" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,mongodb,mysql,postman" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,mongodb,mysql" alt="Backend Stack" />
 </p>
 
 #### 🧠 AI & Data Science
@@ -34,7 +34,7 @@ Currently, I’m diving deep into **AI & Machine Learning** with **Python**, aim
 
 #### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,figma,postman,azure,jira,trello" alt="Tools" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ A complete web application that allows factory workers to report issues in real 
 
 ---
 
-#### 🚘 [Project-Management )](https://github.com/Ayoub-Marhr/project-management)
+#### 🚘 [Project-Management](https://github.com/Ayoub-Marhr/project-management)
 A full-featured platform for managing car rentals with client dashboards and subscription tracking.  
 **Tech Stack:** React, Java Spring Boot, MongoDB, JWT Authentication  
 📊 Built with analytics dashboard and automated expiration system.
