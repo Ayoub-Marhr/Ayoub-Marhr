@@ -80,7 +80,7 @@ You can find all my projects here:
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ayoub-marhrani/](https://www.linkedin.com/in/ayoub-marhrani-3401b32ab/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/ayoub-marhrani-3401b32ab/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
